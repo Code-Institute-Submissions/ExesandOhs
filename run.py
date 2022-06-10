@@ -1,3 +1,20 @@
-# Your code goes here.
-# You can delete these comments, but do not change the name of this file
-# Write your code to expect a terminal of 80 characters wide and 24 rows high
+# print the board
+
+board = ["-","-","-",
+        "-","-","-",
+        "-","-","-"]
+
+# play game
+
+
+# player input
+
+
+# check for a win or a tie
+
+if count == 9:
+    print("GAME OVER. No Winner.")
+    sys.exit()
+
+
+# switch between users
