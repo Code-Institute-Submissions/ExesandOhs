@@ -3,7 +3,9 @@ playerName = input("Your letter is X. What is your first name?:")
 print("Welcome to Exes and Ohs, " + playerName)
 
 # print the board
-board = ["-", "-", "-", "-", "-", "-", "-", "-", "-"]
+board = ["-", "-", "-", 
+        "-", "-", "-", 
+        "-", "-", "-"]
 
 def board():
     print(board[0:3])
