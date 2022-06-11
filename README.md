@@ -15,3 +15,5 @@ The live version of the project can be found here: https://en.wikipedia.org/wiki
 ## Deployment
 
 ## Credits
+
+Computer Science Tutorials, specifically Python Noughts & Crosses series: https://www.youtube.com/watch?v=xUBnvFuHDr4&t=2s
